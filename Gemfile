@@ -2,7 +2,7 @@ source 'http://rubygems.org/'
 
 gemspec
 
-gem 'sinatra'
+gem 'sinatra', '>= 4.0.0'
 gem 'thin'
 gem 'em-redis'
 gem 'yajl-ruby'
